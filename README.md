@@ -9,7 +9,7 @@ This is a [Next.js](https://nextjs.org/) project made with [React](https://react
 
 ## Getting Started
 
-Before you get started, you will need to setup the backend server at [github.com/peterhanania/quiz-app-backend](https://github.com/peterhanania/quiz-app-backend). Once you set everything up and you run your project locally, get your API URL (Ex. http://localhost:3001) and set in:
+Before you get started, you will need to setup the backend server at [github.com/peterhanania/quiz-app-backend](https://github.com/peterhanania/quiz-app-backend). Once you set everything up and you run your project locally, get your API URL (Ex. http://localhost:3001) and set it in:
 
 - `.env.local` `NEXT_PUBLIC_API_URL=YOUR API URL (Ex. http://localhost:3001)`
 
@@ -31,7 +31,7 @@ yarn dev
 
 ### Project Features
 
-- You can play as a Quest or as a User.
+- You can play as a Guest or as a User.
   > - If you are playing as quest your scores won't be saved, and you might see the same questions multiple times.
   > - If you are playing as user your scores will be saved and you won't see the same questions multiple times as you see each question once.
 - You can toggle light mode or dark mode.
