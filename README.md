@@ -29,12 +29,25 @@ npm run dev
 yarn dev
 ```
 
+### Project Features
+
+- You can play as a Quest or as a User.
+  > - If you are playing as quest your scores won't be saved, and you might see the same questions multiple times.
+  > - If you are playing as user your scores will be saved and you won't see the same questions multiple times as you see each question once.
+- You can toggle light mode or dark mode.
+- You can signup or login.
+- You can paginate through your previous scores.
+- Skeleton loading, and great animations with a great U.I.
+- View a small box displaying your score and the actual correct answer once you get something wrong.
+  
 ### Project Showcase
 
 <img src="https://i.imgur.com/yOzG33a.gif" />
+<img src="https://i.imgur.com/FMxkdBt.png" />
 <img src="https://i.imgur.com/nx4pwQV.png" />
 <img src="https://i.imgur.com/ITM8AHf.png" />
 <img src="https://i.imgur.com/QUF6MwB.png" />
+
 
 ### Credits
 
