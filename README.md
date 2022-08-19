@@ -31,10 +31,7 @@ yarn dev
 
 ### Project Showcase
 
-<video controls>
-<source src="https://i.imgur.com/QyeAuZF.mp4" type="video/mp4" />
-Your browser does not support embedded videos
-</video>
+<img src="https://i.imgur.com/yOzG33a.gif" />
 <img src="https://i.imgur.com/nx4pwQV.png" />
 <img src="https://i.imgur.com/ITM8AHf.png" />
 <img src="https://i.imgur.com/QUF6MwB.png" />
